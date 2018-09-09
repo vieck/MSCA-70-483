@@ -1,0 +1,6 @@
+/home/mvieck/Programming/Certifications/MSCA-70-483/Multithreading and Async Processing/Multithreading/Multithreading/bin/Debug/Multithreading.exe
+/home/mvieck/Programming/Certifications/MSCA-70-483/Multithreading and Async Processing/Multithreading/Multithreading/bin/Debug/Multithreading.pdb
+/home/mvieck/Programming/Certifications/MSCA-70-483/Multithreading and Async Processing/Multithreading/Multithreading/obj/x86/Debug/Multithreading.csprojResolveAssemblyReference.cache
+/home/mvieck/Programming/Certifications/MSCA-70-483/Multithreading and Async Processing/Multithreading/Multithreading/obj/x86/Debug/Multithreading.csproj.CoreCompileInputs.cache
+/home/mvieck/Programming/Certifications/MSCA-70-483/Multithreading and Async Processing/Multithreading/Multithreading/obj/x86/Debug/Multithreading.exe
+/home/mvieck/Programming/Certifications/MSCA-70-483/Multithreading and Async Processing/Multithreading/Multithreading/obj/x86/Debug/Multithreading.pdb
